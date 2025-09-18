@@ -12,3 +12,8 @@ c. 1. Sprint Planning Meeting - determine what to complete in the upcoming sprin
         address blockers.
     Sprint Retrospective Meeting - discuss work completed and backlog incomplete work,
         close the sprint.
+
+d. An epic is a large body of work that is broken into stories, a story is a brief description
+of a software system requirement, an issue is any unit of work that can be tracked through the
+workflow, a bug is a small unit of work that represents a problem in the code, and a task tracks
+work that supports the project but does not add value for the customer.
