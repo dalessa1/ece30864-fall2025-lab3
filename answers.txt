@@ -1,0 +1,4 @@
+a. Some pros of Agile development are constant value and collaboration for to the customer 
+and the ability to have dynamic changes and efficient testing.  Some cons are less timeline
+predictability and limited detailed planning/documentation.
+
