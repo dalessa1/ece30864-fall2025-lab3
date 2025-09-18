@@ -5,3 +5,10 @@ predictability and limited detailed planning/documentation.
 b. Scrum masters are responsible for all scrum related tasks like Jira tooling and facilitating
 sprints and meetings, while product owners handle releases and stakeholder management, setting
 the direction for the team.
+
+c. 1. Sprint Planning Meeting - determine what to complete in the upcoming sprint, 
+        determine story points and assign stories to team.
+    Daily Scrum Meeting - discuss work completed in the sprint, plan work for the day and
+        address blockers.
+    Sprint Retrospective Meeting - discuss work completed and backlog incomplete work,
+        close the sprint.
