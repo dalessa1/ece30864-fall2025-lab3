@@ -2,3 +2,6 @@ a. Some pros of Agile development are constant value and collaboration for to th
 and the ability to have dynamic changes and efficient testing.  Some cons are less timeline
 predictability and limited detailed planning/documentation.
 
+b. Scrum masters are responsible for all scrum related tasks like Jira tooling and facilitating
+sprints and meetings, while product owners handle releases and stakeholder management, setting
+the direction for the team.
